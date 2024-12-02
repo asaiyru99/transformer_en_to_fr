@@ -1,0 +1,7 @@
+## Use python 3.9
+
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+tokenizers==0.13.3
+altair==5.1.1pip
